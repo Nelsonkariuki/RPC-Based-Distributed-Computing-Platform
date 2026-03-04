@@ -1,0 +1,6 @@
+# Server hostnames for distributed computing
+localhost
+192.168.1.101  # Kali (self)
+192.168.1.109  # Windows host
+192.168.1.102 # Metasploitable
+192.168.1.100  # Ubuntu
